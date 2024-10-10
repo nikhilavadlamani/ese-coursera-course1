@@ -1,10 +1,10 @@
 /******************************************************************************
- * Copyright (C) 2021 by @author
+ * Copyright (C) 2024 by @author
  *
  * Redistribution, modification or use of this software in source or binary
  * forms is permitted as long as the files maintain this copyright. Users are 
  * permitted to modify this and use it to learn about the field of embedded
- * software. Josh Illes is not liable for any misuse of this material. 
+ * software. Nikhila Vadlamani is not liable for any misuse of this material. 
  *
  *****************************************************************************/
 /**
@@ -13,8 +13,8 @@
  *   and general practice in the "C" language
  *
  *
- * @author Joshua Illes
- * @date 2021-02-09
+ * @author Nikhila Vadlamani 
+ * @date 2024-09-10
  *
  */
 #ifndef __STATS_H__
