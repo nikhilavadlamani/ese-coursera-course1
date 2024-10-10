@@ -1,6 +1,6 @@
 # Week1
-**Author - Nikhila Vadlamani**
-**Date:- 2024-10-09**
+# Author - Nikhila Vadlamani
+# Date:- 2024-10-09
 The point of this code is to be a refresher on the C language.  It has an array of data and will perform various statistical analysis on the data array.
     * Min
     * Max
