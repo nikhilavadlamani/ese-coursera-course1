@@ -1,10 +1,10 @@
 /******************************************************************************
- * Copyright (C) 2017 by Alex Fosdick - University of Colorado
+ * Copyright (C) 2024 by Nikhila Vadlamani 
  *
  * Redistribution, modification or use of this software in source or binary
  * forms is permitted as long as the files maintain this copyright. Users are 
  * permitted to modify this and use it to learn about the field of embedded
- * software. Alex Fosdick and the University of Colorado are not liable for any
+ * software. Nikhila Vadlamani are not liable for any
  * misuse of this material. 
  *
  *****************************************************************************/
@@ -16,8 +16,8 @@
  * are not to change any of the code, they are instead supposed to compile
  * these files with their makefile.
  *
- * @author Alex Fosdick
- * @date April 1 2017
+ * @author Nikhila Vadlamani 
+ * @date 2024-09-10
  *
  */
 #include "platform.h"
